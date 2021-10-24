@@ -62,7 +62,7 @@
   left: 64px;
   z-index: 3;
   line-height: 25px;
-  font-size: 18;
+  font-size: 18px;
   font-weight: normal;
 }
 
@@ -248,7 +248,7 @@
 
 .feynman__image {
   width: 867px;
-  heigh: 637px;
+  height: 637px;
   position: absolute;
   bottom: 0;
   left: 0;
