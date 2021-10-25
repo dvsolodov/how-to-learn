@@ -199,7 +199,7 @@
 /* begin::content::feynman*/
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   margin: 0 auto;
   padding: 100px 0 0 0;
   box-sizing: border-box;
