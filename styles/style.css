@@ -263,12 +263,21 @@
 .kaufman {
   padding: 90px 0;
   background-color: #1f1f1f;
-  position: relative;
   overflow: hidden;
   color: #ffffff;
+  position: relative;
 }
 
-.kaufman-image {
+.section-title_dark,
+.section-subtitle_dark {
+  position: relative;
+  z-index: 1;
+}
+
+.kaufman-triangle{
+  background-image: url(../images/kaufman-triangle.svg);
+  background-repeat: no-repeat;
+  background-size: 877px 877px;
   width: 877px;
   height: 877px;
   position: absolute;
