@@ -261,8 +261,8 @@
   position: relative;
 }
 
-.section-title_dark,
-.section-subtitle_dark {
+.section-title_theme_dark,
+.section-subtitle_theme_dark {
   position: relative;
   z-index: 1;
 }
