@@ -110,9 +110,6 @@
 
 .two-columns__brief {
   width: 175px;
-}
-
-.two-columns__title {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
@@ -270,7 +267,7 @@
 .kaufman-triangle{
   background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
-  background-size: 877px 877px;
+  background-size: contain;
   width: 877px;
   height: 877px;
   position: absolute;
