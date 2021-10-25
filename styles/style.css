@@ -71,10 +71,6 @@
   text-decoration: none;
 }
 
-.headeri__link-arrow_style {
-  font-size: 20px;
-}
-
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
