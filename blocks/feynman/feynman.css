@@ -1,0 +1,10 @@
+.feynman {
+  min-height: 890px;
+  margin: 0 auto;
+  padding: 100px 0 0 0;
+  box-sizing: border-box;
+  position: relative;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f2f2f2;
+}
