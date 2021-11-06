@@ -1,5 +1,14 @@
+/* begin: common styles */
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/flex-column/flex-column.css);
+@import url(../blocks/flex-row/flex-row.css);
+@import url(../blocks/flex-row/_jc/flex-row_jc_space-between.css);
+@import url(../blocks/flex-row/_jc/flex-row_jc_flex-start.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/rotation/rotation.css);
+/* end: common styles */
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
@@ -15,6 +24,20 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
+
+/* begin:techniques */
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+/* end:techniques */
+
+/* begin:video */
+@import url(../blocks/video/video.css);
+/* end:video */
+
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
@@ -42,5 +65,3 @@
 @import url(../blocks/footer/__column-item/footer__column-item.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-
-
