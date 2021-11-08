@@ -1,10 +1,6 @@
 /* begin:common styles */
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/flex-column/flex-column.css);
-@import url(../blocks/flex-row/flex-row.css);
-@import url(../blocks/flex-row/_jc/flex-row_jc_space-between.css);
-@import url(../blocks/flex-row/_jc/flex-row_jc_flex-start.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/rotation/rotation.css);
 /* end:common styles */
