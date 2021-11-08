@@ -4,4 +4,6 @@
   width: 920px;
   flex-wrap: nowrap;
   margin: 0 auto;
+  padding: 0;
+  list-style: none;
 }
